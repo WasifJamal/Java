@@ -25,18 +25,18 @@ Java ME (Micro Edition for mobiles)
 There are many more flavours of Java available.
 
 Version History:
-JDK Alpha and Beta 		| 1995
-JAVA 1.0 (Oak)			| 23-Jan-1996 | 212 or 211 classes		| 8 Packages	| Language Itself
-JAVA 1.1				| 19-Feb-1997 | 503 or 477 classes		| 23 Packages	| Inner Class, Java Beans, JDBC, RMI
-JAVA 1.2 (PlayGround)	| 8-Dec-1998  | 1520 or 1524 classes	| 59 Packages	| Swing, Collection, JIT
-JAVA 1.3 (Kestrel)		| 8-May-2000  | 1840 classes			| 76 Packages	| Corba, JavaSound, JNDI
-JAVA 1.4 (Merlin)		| 6-Feb-2002  | 2723 classes 			| 135 Packages	| IPV6, Java Webstart, NIO
-JAVA 5.0 (Tiger)		| 30-Sep-2004 | 3562 classes			| 166 Packages	| Generic Class, ForEach Loop
-JAVA 6.0 (Mustang)		| 11-Dec-2006 | 3792 classes			| 203 Packages	| JDBC 400, GUI & JUM
-JAVA 7.0 (Dolphin)		| 28-Jul-2011 | 4024 classes			| 209 Packages	| String in Switch Case
-JAVA 8.0				| 18-Mar-2014 | 4240 classes			| 217 Packages 	| Lambda Expressions, Java Time API, Concurrency
-JAVA 9.0				| 21-Sep-2017
-JAVA 10.0				| 20-Mar-2018
+JDK Alpha and Beta			| 1995
+JAVA 1.0 (Oak)				| 23-Jan-1996		| 212 or 211 classes			| 8 Packages		| Language Itself
+JAVA 1.1					| 19-Feb-1997		| 503 or 477 classes			| 23 Packages		| Inner Class, Java Beans, JDBC, RMI
+JAVA 1.2 (PlayGround)		| 8-Dec-1998		| 1520 or 1524 classes			| 59 Packages		| Swing, Collection, JIT
+JAVA 1.3 (Kestrel)			| 8-May-2000		| 1840 classes					| 76 Packages		| Corba, JavaSound, JNDI
+JAVA 1.4 (Merlin)			| 6-Feb-2002		| 2723 classes					| 135 Packages		| IPV6, Java Webstart, NIO
+JAVA 5.0 (Tiger)			| 30-Sep-2004		| 3562 classes					| 166 Packages		| Generic Class, ForEach Loop
+JAVA 6.0 (Mustang)			| 11-Dec-2006		| 3792 classes					| 203 Packages		| JDBC 400, GUI & JUM
+JAVA 7.0 (Dolphin)			| 28-Jul-2011		| 4024 classes					| 209 Packages		| String in Switch Case
+JAVA 8.0					| 18-Mar-2014		| 4240 classes					| 217 Packages 		| Lambda Expressions, Java Time API, Concurrency
+JAVA 9.0					| 21-Sep-2017
+JAVA 10.0					| 20-Mar-2018
 
 Features of JAVA:
 1. Simple
